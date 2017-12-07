@@ -1,0 +1,27 @@
+2017-11-11 23:17:51,224 INFO Best AUC score of Logistic Regression model: 0.7396235597683777
+2017-11-11 23:17:51,225 INFO Best parameters for logistic regression: {'tol': 0.001, 'C': 1.0, 'penalty': 'l1', 'class_weight': 'balanced'}
+
+2017-11-11 23:17:52,625 INFO AUC of logistic regression on training data: 0.9080094444091134
+2017-11-11 23:17:52,625 INFO AUC of logistic regression on test data: 0.7544985825594713
+2017-11-11 23:17:52,642 INFO Accuracy of logistic regression on test data: 0.5977777777777777
+2017-11-11 23:17:52,642 INFO Recall of logistic regression on test data: 0.5977777777777777
+2017-11-11 23:17:52,642 INFO Precision of logistic regression on test data: 0.638601716691269
+2017-11-11 23:17:52,642 INFO f1 score of logistic regression on test data: 0.6061350303873525
+2017-11-11 23:27:19,318 INFO Best AUC score of Random Forest model: 0.7497601389882832
+2017-11-11 23:27:19,324 INFO Best parameters for random forest: {'n_estimators': 200, 'min_samples_leaf': 1, 'min_samples_split': 2}
+
+2017-11-11 23:27:21,185 INFO AUC of random forest on training data: 0.9993650874249026
+2017-11-11 23:27:21,185 INFO AUC of random forest on test data: 0.7851367659001228
+2017-11-11 23:27:21,227 INFO Accuracy of random forest on test data: 0.72
+2017-11-11 23:27:21,227 INFO Recall of random forest on test data: 0.72
+2017-11-11 23:27:21,227 INFO Precision of random forest on test data: 0.7542157912419603
+2017-11-11 23:27:21,227 INFO f1 score of random forest on test data: 0.7198119706854206
+2017-11-12 03:12:12,345 INFO Best AUC score of Gradient Boosting model: 0.7540222776739781
+2017-11-12 03:12:12,354 INFO Best parameters for gradient boosting: {'n_estimators': 200, 'learning_rate': 1.0, 'max_depth': 4}
+
+2017-11-12 03:12:45,972 INFO AUC of gradient boosting classifier on training data: 0.999031007751938
+2017-11-12 03:12:45,972 INFO AUC of gradient boosting classifier on test data: 0.7786648297031813
+2017-11-12 03:12:45,990 INFO Accuracy of gradient boosting on test data: 0.6755555555555556
+2017-11-12 03:12:45,990 INFO Recall of gradient boosting on test data: 0.6755555555555556
+2017-11-12 03:12:45,990 INFO Precision of gradient boosting on test data: 0.6752980895347421
+2017-11-12 03:12:45,990 INFO f1 score of gradient boosting on test data: 0.6731876168402664

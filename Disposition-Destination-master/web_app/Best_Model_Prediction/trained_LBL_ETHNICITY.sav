@@ -1,0 +1,109 @@
+ccopy_reg
+_reconstructor
+p0
+(csklearn.preprocessing.label
+LabelEncoder
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+S'classes_'
+p6
+cnumpy.core.multiarray
+_reconstruct
+p7
+(cnumpy
+ndarray
+p8
+(I0
+tp9
+S'b'
+p10
+tp11
+Rp12
+(I1
+(I28
+tp13
+cnumpy
+dtype
+p14
+(S'O8'
+p15
+I0
+I1
+tp16
+Rp17
+(I3
+S'|'
+p18
+NNNI-1
+I-1
+I63
+tp19
+bI00
+(lp20
+S'AMERICAN INDIAN/ALASKA NATIVE'
+p21
+aS'ASIAN'
+p22
+aS'ASIAN - ASIAN INDIAN'
+p23
+aS'ASIAN - CHINESE'
+p24
+aS'ASIAN - FILIPINO'
+p25
+aS'ASIAN - KOREAN'
+p26
+aS'ASIAN - VIETNAMESE'
+p27
+aS'BLACK/AFRICAN'
+p28
+aS'BLACK/AFRICAN AMERICAN'
+p29
+aS'BLACK/CAPE VERDEAN'
+p30
+aS'BLACK/HAITIAN'
+p31
+aS'HISPANIC OR LATINO'
+p32
+aS'HISPANIC/LATINO - CUBAN'
+p33
+aS'HISPANIC/LATINO - DOMINICAN'
+p34
+aS'HISPANIC/LATINO - GUATEMALAN'
+p35
+aS'HISPANIC/LATINO - PUERTO RICAN'
+p36
+aS'HISPANIC/LATINO - SALVADORAN'
+p37
+aS'MIDDLE EASTERN'
+p38
+aS'MULTI RACE ETHNICITY'
+p39
+aS'OTHER'
+p40
+aS'PATIENT DECLINED TO ANSWER'
+p41
+aS'PORTUGUESE'
+p42
+aS'UNABLE TO OBTAIN'
+p43
+aS'UNKNOWN/NOT SPECIFIED'
+p44
+aS'WHITE'
+p45
+aS'WHITE - BRAZILIAN'
+p46
+aS'WHITE - OTHER EUROPEAN'
+p47
+aS'WHITE - RUSSIAN'
+p48
+atp49
+bsS'_sklearn_version'
+p50
+S'0.19.1'
+p51
+sb.
